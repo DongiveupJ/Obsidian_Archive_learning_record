@@ -1,0 +1,5 @@
+# Ignore all hidden files/folders (Finder-invisible)
+.*
+
+# But track .gitignore itself
+!.gitignore
